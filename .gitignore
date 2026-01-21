@@ -4,4 +4,4 @@ __pycache__/
 *.pt
 outputs/
 .env
-
+data/
