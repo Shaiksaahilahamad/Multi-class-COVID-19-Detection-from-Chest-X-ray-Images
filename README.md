@@ -48,4 +48,3 @@ This project aims to build a **multi-class image classification model** that dis
   - COVID-19  
   - Viral Pneumonia  
   - Normal  
-- **Structure:**
